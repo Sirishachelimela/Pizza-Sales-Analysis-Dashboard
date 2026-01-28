@@ -4,10 +4,7 @@
 ---
 
 This project analyzes pizza sales data to uncover key insights related to revenue, customer behavior, and product performance using an interactive dashboard.
-
 The analysis helps understand sales trends, customer preferences, and operational efficiency to support data-driven decision-making.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e69ab0d7-2faa-4c7e-884a-5ed7bd468b28" />
-
 
 🎯 Business Objectives
 ---
@@ -129,3 +126,4 @@ Optimize inventory based on demand trends
 📌 Conclusion
 ---
 This project provides a comprehensive overview of pizza sales performance, helping businesses optimize operations, improve customer satisfaction, and increase revenue through data-driven insights.
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e69ab0d7-2faa-4c7e-884a-5ed7bd468b28" />
